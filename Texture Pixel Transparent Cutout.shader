@@ -1,5 +1,5 @@
 ﻿
-// Special thanks to GMGregory from https://gamedev.stackexchange.com and gamedev.stackexchange itself for making this shader possible.
+// Special thanks to DMGregory from https://gamedev.stackexchange.com and gamedev.stackexchange itself for making this shader possible.
 // WARNING: I havent checked if any content of this shader is copyrighted or patented, so use at your own risk!
 
 // This shaders purpose is to use vertex colors as an input to determine transparency using the input texture's pixels.
